@@ -32,9 +32,8 @@ This project simulates a real-world business intelligence task for **TravelSpher
 
 ## Tools & Technologies
 
-- **Python** — Data cleaning, preprocessing, and sentiment theme extraction
-- **Tableau Desktop** — Dashboard design, interactivity, and visual storytelling
-- **Tableau Prep Builder** — Optional data flow documentation
+Tableau Desktop — Data cleaning, dashboard design, interactivity, and visual storytelling
+Tableau Prep Builder — Data flow and preprocessing
 
 ---
 
