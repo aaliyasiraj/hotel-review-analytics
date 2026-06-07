@@ -109,4 +109,4 @@ A group of Australian travellers books through TravelSphere. The nationality fil
 
 **Aaliya Siraj**
 Master of Analytics — RMIT University, Melbourne
-[LinkedIn](#) | [Tableau Public](#) | [GitHub](https://github.com/aaliyasiraj)
+[LinkedIn](linkedin.com/in/aaliya-siraj-b79b75218) | [Tableau Public](#) | [GitHub](https://github.com/aaliyasiraj)
