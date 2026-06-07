@@ -14,10 +14,10 @@ This project simulates a real-world business intelligence task for **TravelSpher
 
 | Area | Question |
 |---|---|
-| 🗺️ Geographic Performance | Which cities and locations yield the highest customer satisfaction? |
-| 🌍 Nationality Bias | Do ratings vary by reviewer nationality? Are some nationalities harsher critics? |
-| 💬 Sentiment Drivers | What are the common themes in positive vs. negative reviews? |
-| 📅 Seasonality | How does review volume and satisfaction change across months of the year? |
+| Geographic Performance | Which cities and locations yield the highest customer satisfaction? |
+| Nationality Bias | Do ratings vary by reviewer nationality? Are some nationalities harsher critics? |
+| Sentiment Drivers | What are the common themes in positive vs. negative reviews? |
+| Seasonality | How does review volume and satisfaction change across months of the year? |
 
 ---
 
