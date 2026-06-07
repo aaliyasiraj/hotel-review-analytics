@@ -1,6 +1,6 @@
 # European Hotel Review Analytics — TravelSphere BI Dashboard
 
-**Tool:** Tableau Desktop | **Language:** Python | **Context:** RMIT University — Master of Analytics
+**Tool:** Tableau Desktop | **Language:** Python | **Context:** RMIT University - Master of Analytics
 
 ---
 
