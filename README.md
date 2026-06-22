@@ -1,6 +1,6 @@
-# European Hotel Review Analytics — TravelSphere BI Dashboard
+# European Hotel Review Analytics - TravelSphere BI Dashboard
 
-**Tool:** Tableau Desktop | **Context:** RMIT University — Master of Analytics
+**Tool:** Tableau Desktop | **Context:** RMIT University - Master of Analytics
 
 ---
 
@@ -32,8 +32,8 @@ This project simulates a real-world business intelligence task for **TravelSpher
 
 ## Tools & Technologies
 
-- **Tableau Desktop** — Data cleaning, dashboard design, interactivity, and visual storytelling
-- **Tableau Prep Builder** — Data flow and preprocessing
+- **Tableau Desktop** - Data cleaning, dashboard design, interactivity, and visual storytelling
+- **Tableau Prep Builder** - Data flow and preprocessing
 
 ---
 
@@ -43,8 +43,8 @@ All data cleaning and preprocessing was performed directly in Tableau:
 
 1. Filtered dataset to 2017 reviews only using Review_Date
 2. Removed records with missing or invalid coordinates (Coordinate_Status)
-3. Cleaned reviewer nationality field — standardised country names
-4. Processed positive and negative review text — removed nulls, cleaned whitespace
+3. Cleaned reviewer nationality field - standardised country names
+4. Processed positive and negative review text - removed nulls, cleaned whitespace
 5. Extracted sentiment theme categories from review text
 6. Created calculated fields: Satisfaction_Band, Review_Month_Name, Days_Since_Review
 7. Validated descriptive statistics post-cleaning (row counts, score distributions, date ranges)
@@ -53,13 +53,13 @@ All data cleaning and preprocessing was performed directly in Tableau:
 
 ## Dashboard Features
 
-### Dashboard 1 — Hotel Portfolio Overview
+### Dashboard 1 - Hotel Portfolio Overview
 - Average review score by city (bar chart)
 - Geographic map of hotel satisfaction by coordinates
 - Satisfaction band distribution
 - Filters: City, Satisfaction Band, Month
 
-### Dashboard 2 — Review Insights
+### Dashboard 2 - Review Insights
 - Monthly review volume and average score trend (line chart)
 - Reviewer nationality rating patterns (bar chart)
 - Top positive and negative review themes (bar charts)
@@ -69,21 +69,21 @@ All data cleaning and preprocessing was performed directly in Tableau:
 
 ## Key Insights
 
-- **London and Paris** hotels showed the widest satisfaction variance — high risk and high reward for luxury clients
+- **London and Paris** hotels showed the widest satisfaction variance - high risk and high reward for luxury clients
 - **Japanese and Australian** reviewers consistently rated higher; **Eastern European** reviewers tended to score lower on average
 - Most common **negative themes**: room size, noise, and check-in experience
 - Most common **positive themes**: location, staff friendliness, and breakfast quality
-- **Summer months (June–August)** had the highest review volume but slightly lower average scores — suggesting peak season pressure on hotel quality
+- **Summer months (June–August)** had the highest review volume but slightly lower average scores - suggesting peak season pressure on hotel quality
 
 ---
 
 ## Use Cases
 
-### Use Case 1 — City Selection for Premium Clients
-A client wants a 5-star hotel experience in Europe. The dashboard is filtered by Satisfaction_Band = Excellent and sorted by city — instantly surfacing the top-performing cities and specific hotels to recommend.
+### Use Case 1 - City Selection for Premium Clients
+A client wants a 5-star hotel experience in Europe. The dashboard is filtered by Satisfaction_Band = Excellent and sorted by city - instantly surfacing the top-performing cities and specific hotels to recommend.
 
-### Use Case 2 — Nationality-Aware Advising
-A group of Australian travellers books through TravelSphere. The nationality filter reveals how Australian reviewers specifically rated each city — allowing the advisor to align recommendations with that audience's known preferences.
+### Use Case 2 - Nationality-Aware Advising
+A group of Australian travellers books through TravelSphere. The nationality filter reveals how Australian reviewers specifically rated each city - allowing the advisor to align recommendations with that audience's known preferences.
 
 ---
 
@@ -97,17 +97,8 @@ A group of Australian travellers books through TravelSphere. The nationality fil
 
 ---
 
-## Files
-
-| File | Description |
-|---|---|
-| `Assignment2.twbx` | Tableau Packaged Workbook with embedded data and dashboards |
-| `README.md` | This file |
-
----
-
 ## Author
 
 **Aaliya Siraj**
-Master of Analytics — RMIT University, Melbourne
+Master of Analytics - RMIT University, Melbourne
 [LinkedIn](https://www.linkedin.com/in/aaliya-siraj-b79b75218/) | [Tableau Public](#) | [GitHub](https://github.com/aaliyasiraj)
